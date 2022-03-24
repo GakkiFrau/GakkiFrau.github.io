@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.yshawlon.cn/"/>
-  <updated>2021-12-23T15:36:02.262Z</updated>
+  <updated>2022-03-24T15:13:09.117Z</updated>
   <id>https://www.yshawlon.cn/</id>
   
   <author>
@@ -15,6 +15,107 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://www.yshawlon.cn/a.html"/>
+    <id>https://www.yshawlon.cn/a.html</id>
+    <published>2022-03-24T14:38:14.916Z</published>
+    <updated>2022-03-24T15:13:09.117Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;hr&gt;
+&lt;p&gt;title: a&lt;br&gt;top: false&lt;br&gt;cover: false&lt;br&gt;toc: true&lt;br&gt;mathjax: true&lt;br&gt;date: 2022-03-24
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://www.yshawlon.cn/new-docum1ent.html"/>
+    <id>https://www.yshawlon.cn/new-docum1ent.html</id>
+    <published>2022-03-11T14:38:06.898Z</published>
+    <updated>2022-03-11T14:38:06.973Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;ul&gt;
+&lt;li&gt;&lt;p&gt;系统变慢的原因 
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://www.yshawlon.cn/new-document.html"/>
+    <id>https://www.yshawlon.cn/new-document.html</id>
+    <published>2022-03-08T14:49:14.558Z</published>
+    <updated>2022-03-08T14:49:14.620Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1&gt;一&lt;/h1&gt;  
+- 找到核心问题，围绕问题提出一个假设
+- 确定并搜集所需信息
+- 分析并解决问题  
+
+&lt;p style=&quot;color:red;&quot;&gt;
+    逻辑树
+&lt;/p&gt;
+1. 为什么
+2. 怎么做
+    - 将核心问题清晰勾勒出来
+    -
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://www.yshawlon.cn/da-nao-he-zuo.html"/>
+    <id>https://www.yshawlon.cn/da-nao-he-zuo.html</id>
+    <published>2022-03-07T16:19:22.891Z</published>
+    <updated>2022-03-08T13:40:15.294Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;#合作&lt;br&gt;与大脑合作&lt;br&gt;四件有关大脑的事  
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>day3</title>

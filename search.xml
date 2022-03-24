@@ -4,6 +4,58 @@
   
     
     <entry>
+      <title></title>
+      <link href="/a.html"/>
+      <url>/a.html</url>
+      
+        <content type="html"><![CDATA[<hr><p>title: a<br>top: false<br>cover: false<br>toc: true<br>mathjax: true<br>date: 2022-03-24 22:38:14<br>password:<br>summary:<br>tags:<br>categories:<br>keywords:<br>description:<br>—3.24重操旧业，再次尝试写起来，坚持真是件难事，不奢望我能写多久，只希望想写的时候不需要花费很多时间来重新学习操作。所以我就想再写写，顺便熟悉一下操作！<br>—晚上加了会班，回来后跟妙通，嘉陵仔在打吃鸡，准备玩两把睡觉呢。说实话，想做的事儿太多，真不知道干得那件好。没啥好说的，啥事儿明儿再说吧</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/new-docum1ent.html"/>
+      <url>/new-docum1ent.html</url>
+      
+        <content type="html"><![CDATA[<ul><li><p>系统变慢的原因  </p><ul><li><p>系统盘安装了大量软件，甚至是恶意程序</p></li><li><p>很多软件设置成开机启动</p></li><li><p>访问不正规网站的时候，后台给你的系统添加了大量的恶意插件</p></li><li><p>没有清理电脑，安装程序时，下载软件在硬盘上生成了大量的碎片，在运行大量程序的时候，程序又向注册表中添加了众多信息，还有垃圾文件</p></li><li><p>360的毒害  </p></li><li><p>…</p><br></li></ul></li></ul><p>减少开机启动数量  </p><ol><li>三大块：注册表，服务和计划任务  </li><li>五个小地方：注册表，服务，计划任务，系统配置实用程序和任务管理器    </li></ol><ul><li>通过系统配置实用程序（msconfig）管理服务项：<br>windows+R<br>输入: msconfig -3  </li><li>打开计划任务<br>windows+R<br>输入: taskschd.msc  </li></ul><p>摩尔定律  </p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/new-document.html"/>
+      <url>/new-document.html</url>
+      
+        <content type="html"><![CDATA[<h1>一</h1>  - 找到核心问题，围绕问题提出一个假设- 确定并搜集所需信息- 分析并解决问题  <p style="color:red;">    逻辑树</p>1. 为什么2. 怎么做    - 将核心问题清晰勾勒出来    - 将核心问题与次要问题区分开    - 找到不同的解决方法<p><strong style="color:blue;">紧张效应</strong></p> <div id="loading-container">     <p class="loading-text"></p>      <div class="loading-image">         <div></div>         <div></div>         <div></div>         <div></div>          <div></div>     </div> </div><body>    <ol>        <li>            打破惯性思维        </li>        <li>            学会换位思考        </li>        <li>            多阅读书籍        </li>        <li>            坚持复盘总结        </li>    </ol></body><p><code>always like this</code></p><hr><h3>茶的种类</h3>> - 黑茶  <pre><code>    西藏，四川，云南</code></pre><blockquote><ul><li>红茶</li></ul></blockquote><pre><code>    福建武夷山</code></pre><blockquote><ul><li>黄茶</li></ul></blockquote><pre><code>    四川</code></pre><blockquote><ul><li>绿茶</li></ul></blockquote><pre><code>    杭州</code></pre><blockquote><ul><li>白茶</li></ul></blockquote><pre><code>    福建</code></pre><blockquote><ul><li>乌龙茶</li></ul></blockquote><pre><code>    武夷岩茶（大红袍）</code></pre><hr><p>抽象表现主义画家<br><br>美丽的问题，<br><br>美丽的答案  </p><ul><li>简单，简洁，最小化</li></ul><blockquote><p>伽利略的想法是，抛物运动由两种不同方向的运动构成，可以分别处理，一种是平行于地面的水平运动，引力在其中不起任何作用；另一种是向上或向下的垂直运动，引力在其中发挥作用，并且可以利用他的落体定律。</p></blockquote>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/da-nao-he-zuo.html"/>
+      <url>/da-nao-he-zuo.html</url>
+      
+        <content type="html"><![CDATA[<p>#合作<br>与大脑合作<br>四件有关大脑的事   </p><blockquote><p>1.大脑会完全，确切地去做它认为你想要它去做的一切，大脑永远在做一些它认为对你是有利的事情<br>2.大脑会本能地把你带向快乐，并使你远离痛苦<br>3.在任何时候你对所有事物的感觉都是来自于以下两点：你在脑海中想象的画面，以及你对自己说的话<br>4.大脑爱做熟悉的事，它的设计就是不听地重复那些已经熟悉的事，如果你想在各个层面上有所成就，你就要把熟悉的事变得陌生，而把陌生的事变熟悉  </p></blockquote><ol><li>如果你消极地说，这件事真是累死人，老板真恶心，上班一点都不开心，那么大脑就会意识到你不想做这些，它就会怂恿你去拖延，半途而废，做事漫不经心。大脑非常专注你所用的字词。积极的思考，积极的词语，和自己的大脑合作，它会做你想要它去做的一切，与自己的大脑好好沟通，你要用非常具体的，仔细且明确的话语，来告诉它你想要什么，在你做一件事时，你要说：我希望做这件事，我想要这么做，我享受它，是我选择了它，那就是我想要的</li><li>应该把痛苦与快乐联系起来，大脑总会把你拉向快乐，远离痛苦   </li><li>与大脑合作，必须改变那些画面，必须改变那些话。想象</li></ol>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>day3</title>
       <link href="/day3.html"/>
       <url>/day3.html</url>
